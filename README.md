@@ -26,7 +26,7 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/tfhmc"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" /></a>
+<a href="https://github.com/tfhmc"><img src="https://img.shields.io/badge/GitHub-tfhmc-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/3493110726265739"><img src="https://img.shields.io/badge/哔哩哔哩-tfhmc-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-2180420155-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
@@ -42,5 +42,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=tfhmc&repo=tfhmc.github.io)](https://github.com/tfhmc/tfhmc.github.io)
 <br><br><br>
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=tfhmc&repo=bingapi)](https://github.com/tfhmc/bingapi)
 <br><br><br>
