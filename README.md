@@ -40,5 +40,5 @@
 
 ### open source project
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=tfhmc&repo=bingapi)](https://github.com/tfhmc/bingapi)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=tfhmc&repo=tfhmc.github.io)](https://github.com/tfhmc/tfhmc.github.io)
 <br><br><br>
