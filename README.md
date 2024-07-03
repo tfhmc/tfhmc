@@ -41,6 +41,8 @@
 ### open source project
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=tfhmc&repo=tfhmc.github.io)](https://github.com/tfhmc/tfhmc.github.io)
+<br><br><br>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=tfhmc&repo=cf)](https://github.com/tfhmc/cf) <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+[![](https://github-readme-stats.vercel.app/api/pin/?username=tfhmc&repo=cf)](https://github.com/tfhmc/cf)
 <br><br><br>
